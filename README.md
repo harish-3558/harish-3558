@@ -7,7 +7,7 @@ I'm Mallela Harish, an undergrad at IIIT Sri City pursuing my Btech in CSE.
 - 🔍 You could find my projects here [https://github.com/harish-3558](https://github.com/harish-3558)
 - 📋 Check out my LinkedIn profile [linkedin.com/in/harish-mallela-59bb9b380](https://www.linkedin.com/in/harish-mallela-59bb9b380)
 - 📩 Reach me out via **harish.m24@iiits.in**
-- ⚡ An interesting fact about me: **I like games and watching movies!**
+
 
 ## Connect with me:
 
