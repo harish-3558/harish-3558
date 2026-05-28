@@ -27,14 +27,10 @@ I'm Mallela Harish, an undergrad at IIIT Sri City pursuing my Btech in CSE.
 
 ## 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=harish-3558&show_icons=true&theme=dark&count_private=true&cache_seconds=1800" />
-</p>
+
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=harish-3558&theme=dark" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish-3558&layout=compact&theme=dark&langs_count=6&cache_seconds=1800" />
-</p>
+
