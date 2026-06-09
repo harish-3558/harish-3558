@@ -5,6 +5,7 @@ I'm Mallela Harish, an undergrad at IIIT Sri City pursuing my Btech in CSE.
 ![Profile views](https://komarev.com/ghpvc/?username=harish-3558&color=blue)
 
 - 🔍 You could find my projects here [https://github.com/harish-3558](https://github.com/harish-3558)
+- ⚡ You could find my DSA progress here [https://leetcode.com/u/Mallela_harish/](https://leetcode.com/u/Mallela_harish/)
 - 📋 Check out my LinkedIn profile [linkedin.com/in/harish-mallela-59bb9b380](https://www.linkedin.com/in/harish-mallela-59bb9b380)
 - 📩 Reach me out via **harish.m24@iiits.in**
 
