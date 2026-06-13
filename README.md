@@ -6,6 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=harish-3558&label=Profile+Views&color=green&style=for-the-badge" alt="harish-3558" />
 </div>
 
+---
+
 - 🔍 You could find my projects here [https://github.com/harish-3558](https://github.com/harish-3558)
 - ⚡ You could find my DSA progress here [https://leetcode.com/u/Mallela_harish/](https://leetcode.com/u/Mallela_harish/)
 - 📋 Check out my LinkedIn profile [linkedin.com/in/harish-mallela-59bb9b380](https://www.linkedin.com/in/harish-mallela-59bb9b380)
