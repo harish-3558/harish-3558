@@ -52,4 +52,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=harish-3558&theme=github-dark&border_radius=4.1&card_width=1000" alt="GitHub Streak" />
 </div>
 
-![snake animation](https://raw.githubusercontent.com/harish-3558/harish-3558/output/github-contribution-grid-snake.svg)
+<p align="center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harish-3558/harish3558/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harish-3558/harish3558/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harish-3558/harish3558/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
