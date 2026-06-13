@@ -1,6 +1,8 @@
-# Hello everyone, I'm Mallela Harish
+<h1 align="center">Hello Everyone!👋🏻</h1>
 
-I'm Mallela Harish, an undergrad at IIIT Sri City pursuing my Btech in CSE.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&center=true&vCenter=true&width=550&lines=This+is+Mallela+Harish;Undergraduate+at+IIIT+Sri+City;Pursuing+my+B.Tech+in+CSE" alt="Typing SVG" />
+</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=harish-3558&color=blue)
 
