@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&center=true&vCenter=true&width=550&lines=This+is+Mallela+Harish;Undergraduate+at+IIIT+Sri+City;Pursuing+my+B.Tech+in+CSE" alt="Typing SVG" />
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=harish-3558&color=blue)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=harish-3558&label=Profile+Views&color=green&style=for-the-badge" alt="harish-3558" />
+</div>
 
 - 🔍 You could find my projects here [https://github.com/harish-3558](https://github.com/harish-3558)
 - ⚡ You could find my DSA progress here [https://leetcode.com/u/Mallela_harish/](https://leetcode.com/u/Mallela_harish/)
@@ -27,13 +29,31 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📊 GitHub Stats:
-
+### 📊 GitHub Stats & Top Languages
 
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=harish-3558&theme=dark" />
+<div align="center">
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish-3558&layout=compact&theme=github_dark" width="100%"/>
+</td>
+
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=harish-3558&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" width="100%"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harish-3558&theme=github-dark&border_radius=4.1&card_width=1000" alt="GitHub Streak" />
+</div>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harish-3558/harish-3558/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
-
