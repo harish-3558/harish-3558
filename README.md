@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harish-3558&theme=github-dark&border_radius=4.1&card_width=1000" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=harish-3558&theme=github-dark&border_radius=4.1&card_width=800" alt="GitHub Streak" />
 </div>
 
 ### 🐍 Contribution Graph
