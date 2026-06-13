@@ -27,7 +27,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📊 GitHub Stats & Top Languages
+### 📊 GitHub Stats 
 <div align="center">
 <table>
 <tr>
@@ -45,6 +45,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=harish-3558&theme=github-dark&border_radius=4.1&card_width=1000" alt="GitHub Streak" />
 </div>
 
+### 🐍 Contribution Graph
 <p align="center">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harish-3558/harish-3558/output/github-contribution-grid-snake-dark.svg">
