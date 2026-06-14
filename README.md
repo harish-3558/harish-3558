@@ -45,7 +45,7 @@
   <img src="https://streak-stats.demolab.com?user=harish-3558&theme=github-dark&border_radius=4.1&card_width=800" alt="GitHub Streak" />
 </div>
 
-### 🐍 Contribution Graph
+###  Contribution Graph
 <p align="center">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harish-3558/harish-3558/output/github-contribution-grid-snake-dark.svg">
