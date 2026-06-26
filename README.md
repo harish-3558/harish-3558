@@ -3,9 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&center=true&vCenter=true&width=550&lines=This+is+Mallela+Harish;Undergraduate+at+IIIT+Sri+City;Pursuing+my+B.Tech+in+CSE" alt="Typing SVG" />
 </p>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=harish-3558&label=Profile+Views&color=green&style=for-the-badge" alt="harish-3558" />
+  <img src="https://komarev.com/ghpvc/?username=harish-3558&label=Profile%20views&color=0e75b6&style=flat" alt="harish-3558" />
 </div>
-
 ---
 
 - 🔍 You could find my projects here [https://github.com/harish-3558](https://github.com/harish-3558)
