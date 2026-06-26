@@ -5,7 +5,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=harish-3558&label=Profile%20views&color=0e75b6&style=flat" alt="harish-3558" />
 </div>
----
+
+<p></p>
 
 - 🔍 You could find my projects here [https://github.com/harish-3558](https://github.com/harish-3558)
 - ⚡ You could find my DSA progress here [https://leetcode.com/u/Mallela_harish/](https://leetcode.com/u/Mallela_harish/)
