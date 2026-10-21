@@ -10,7 +10,7 @@
 
 - 🔍 You could find my projects here [https://github.com/harish-3558](https://github.com/harish-3558)
 - 📋 Check out my LinkedIn profile [linkedin.com/in/harish-mallela-59bb9b380](https://www.linkedin.com/in/harish-mallela-59bb9b380)
-- 📩 Reach me out via **harish.m24@iiits.in**
+- 📩 Reach me out via **harishchowdary.edu@gmail.com**
 
 ## Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Beliver3558)
